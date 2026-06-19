@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Swarm Intelligence",
+  "universe": "BEE · Swarm Intelligence (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Swarm Intelligence:BEE:beda00⟧",
+  "carbon": "swarm-intelligence.carbon.tiff (TIFF)",
+  "silicon": "swarm-intelligence.silicon.png (PNG)",
+  "seal_sha256": "731e9d1af0a3abe3a110bc56826216c4ca683cd26d1c373699d6a5bae364c0ac",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

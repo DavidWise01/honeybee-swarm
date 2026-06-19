@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE HONEYBEE SWARM",
+  "universe": "BEE · THE HONEYBEE SWARM (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦THE HONEYBEE SWARM:BEE:967375⟧",
+  "carbon": "honeybee-swarm.carbon.tiff (TIFF)",
+  "silicon": "honeybee-swarm.silicon.png (PNG)",
+  "seal_sha256": "7b949c665e7204dbc9e5d9710121938e25592f79c944b0bad7724625b554285a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

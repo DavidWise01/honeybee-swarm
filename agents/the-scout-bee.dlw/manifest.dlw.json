@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Scout Bee",
+  "universe": "BEE · The Scout Bee (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Scout Bee:BEE:73f40c⟧",
+  "carbon": "the-scout-bee.carbon.tiff (TIFF)",
+  "silicon": "the-scout-bee.silicon.png (PNG)",
+  "seal_sha256": "ae10bbf4a5a56cec15f1b856a8f59054526f79e360ce5a188a8d541f9e60e38b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

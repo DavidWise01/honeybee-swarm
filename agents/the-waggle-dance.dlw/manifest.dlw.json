@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Waggle Dance",
+  "universe": "BEE · The Waggle Dance (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Waggle Dance:BEE:abe4e3⟧",
+  "carbon": "the-waggle-dance.carbon.tiff (TIFF)",
+  "silicon": "the-waggle-dance.silicon.png (PNG)",
+  "seal_sha256": "eea62e1f11ecc4c5bc2f3568b62e24416e96ca8b5b972e463547e76636819c36",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Karl von Frisch",
+  "universe": "BEE · Karl von Frisch (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Karl von Frisch:BEE:5382d8⟧",
+  "carbon": "karl-von-frisch.carbon.tiff (TIFF)",
+  "silicon": "karl-von-frisch.silicon.png (PNG)",
+  "seal_sha256": "a039129e67c7b203f98a0652514a77bf744736be399ae225949f17df721c48ed",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

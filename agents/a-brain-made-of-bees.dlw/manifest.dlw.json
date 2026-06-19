@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "A Brain Made of Bees",
+  "universe": "BEE · A Brain Made of Bees (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦A Brain Made of Bees:BEE:ccb02d⟧",
+  "carbon": "a-brain-made-of-bees.carbon.tiff (TIFF)",
+  "silicon": "a-brain-made-of-bees.silicon.png (PNG)",
+  "seal_sha256": "004d8716c635c14003c349cbb32e61b8985a1479b57a41366cbbc353ee38d086",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

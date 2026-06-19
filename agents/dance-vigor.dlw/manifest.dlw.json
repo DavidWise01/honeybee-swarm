@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dance Vigor",
+  "universe": "BEE · Dance Vigor (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Dance Vigor:BEE:54f880⟧",
+  "carbon": "dance-vigor.carbon.tiff (TIFF)",
+  "silicon": "dance-vigor.silicon.png (PNG)",
+  "seal_sha256": "f4e00b11f5084a133135070b94efbc72b6cf25dc29d194b32d1497492202affd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

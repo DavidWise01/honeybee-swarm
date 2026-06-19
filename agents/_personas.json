@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "the-homeless-swarm",
+    "name": "The Homeless Swarm",
+    "epithet": "ten thousand bees on a branch · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Homeless Swarm:BEE:1a7d8e⟧"
+  },
+  {
+    "slug": "the-scout-bee",
+    "name": "The Scout Bee",
+    "epithet": "the swarm's senses · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Scout Bee:BEE:73f40c⟧"
+  },
+  {
+    "slug": "the-waggle-dance",
+    "name": "The Waggle Dance",
+    "epithet": "an argument in motion · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Waggle Dance:BEE:abe4e3⟧"
+  },
+  {
+    "slug": "dance-vigor",
+    "name": "Dance Vigor",
+    "epithet": "quality, written in effort · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Dance Vigor:BEE:54f880⟧"
+  },
+  {
+    "slug": "positive-feedback",
+    "name": "Positive Feedback",
+    "epithet": "good sites snowball · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Positive Feedback:BEE:623c73⟧"
+  },
+  {
+    "slug": "the-stop-signal",
+    "name": "The Stop Signal",
+    "epithet": "cross-inhibition, by head-butt · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Stop Signal:BEE:6e9b97⟧"
+  },
+  {
+    "slug": "the-quorum",
+    "name": "The Quorum",
+    "epithet": "the threshold that launches · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Quorum:BEE:59fcbe⟧"
+  },
+  {
+    "slug": "swarm-intelligence",
+    "name": "Swarm Intelligence",
+    "epithet": "accuracy with no leader · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Swarm Intelligence:BEE:beda00⟧"
+  },
+  {
+    "slug": "a-brain-made-of-bees",
+    "name": "A Brain Made of Bees",
+    "epithet": "the analogy, made rigorous · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦A Brain Made of Bees:BEE:ccb02d⟧"
+  },
+  {
+    "slug": "karl-von-frisch",
+    "name": "Karl von Frisch",
+    "epithet": "who read the dance, 1886–1982 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Karl von Frisch:BEE:5382d8⟧"
+  },
+  {
+    "slug": "martin-lindauer",
+    "name": "Martin Lindauer",
+    "epithet": "who watched the swarm choose, 1918–2008 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Martin Lindauer:BEE:f740dc⟧"
+  }
+]

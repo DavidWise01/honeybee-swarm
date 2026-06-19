@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Quorum",
+  "universe": "BEE · The Quorum (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Quorum:BEE:59fcbe⟧",
+  "carbon": "the-quorum.carbon.tiff (TIFF)",
+  "silicon": "the-quorum.silicon.png (PNG)",
+  "seal_sha256": "b888c6810d8cb0cad05c48e3e0b492181038c627cf7eda84a792db6abb800048",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
